@@ -1,0 +1,10 @@
+# Data and output folders
+images/
+gt/
+output/
+
+# Python virtual environments
+venv/
+ocr_venv_clean/
+final_venv/
+__pycache__/
