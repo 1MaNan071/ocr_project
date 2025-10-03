@@ -19,8 +19,8 @@ This project provides a flexible framework to benchmark the performance of vario
 
 1.  **Clone the repository:**
     ```
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone ocr_project
+    cd ocr_project
     ```
 
 2.  **Create a virtual environment:**
